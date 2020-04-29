@@ -14,6 +14,11 @@ For each unit of distance traveled by the truck there is a cost of $10, while fo
 2. Xpress Mp Code (along with steps to run the code)
 3. Input data files
 
+**Sample Result:**
+![26 orders](26_order_trajectory.png)
+
+Above graphs shows optimumum route for total 26 orders. Green line represents delivery by drone and red by the truck.
+
 **Acknowledgement**
 This is a team project made as part of BANA 7020, Optimization course taught at University of Cincinnati. 
 Team Members: Ashutosh Singh, Harsh Singhal,Himanshu Chabbra,Jagruti Joshi, Rasesh Garg
